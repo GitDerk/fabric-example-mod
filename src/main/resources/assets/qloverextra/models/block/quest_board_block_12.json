@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/orientable",
+  "textures": {
+    "front": "qloverextra:blocks/quest_board_block_12",
+    "side": "qloverextra:blocks/quest_board_block",
+    "top": "qloverextra:blocks/quest_board_block",
+    "bottom": "qloverextra:blocks/quest_board_block"
+  }
+}

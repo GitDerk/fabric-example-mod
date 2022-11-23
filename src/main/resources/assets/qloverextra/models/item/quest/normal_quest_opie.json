@@ -1,0 +1,7 @@
+
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "qloverextra:items/normal_quest"
+  }
+}

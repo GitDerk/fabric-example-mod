@@ -1,0 +1,184 @@
+{
+  "variants": {
+    "facing=east,id=1": {
+      "model": "qloverextra:block/quest_board_block_1",
+      "y": 90
+    },
+    "facing=east,id=2": {
+      "model": "qloverextra:block/quest_board_block_2",
+      "y": 90
+    },
+    "facing=east,id=3": {
+      "model": "qloverextra:block/quest_board_block_3",
+      "y": 90
+    },
+    "facing=east,id=4": {
+      "model": "qloverextra:block/quest_board_block_4",
+      "y": 90
+    },
+    "facing=east,id=5": {
+      "model": "qloverextra:block/quest_board_block_5",
+      "y": 90
+    },
+    "facing=east,id=6": {
+      "model": "qloverextra:block/quest_board_block_6",
+      "y": 90
+    },
+    "facing=east,id=7": {
+      "model": "qloverextra:block/quest_board_block_7",
+      "y": 90
+    },
+    "facing=east,id=8": {
+      "model": "qloverextra:block/quest_board_block_8",
+      "y": 90
+    },
+    "facing=east,id=9": {
+      "model": "qloverextra:block/quest_board_block_9",
+      "y": 90
+    },
+    "facing=east,id=10": {
+      "model": "qloverextra:block/quest_board_block_10",
+      "y": 90
+    },
+    "facing=east,id=11": {
+      "model": "qloverextra:block/quest_board_block_11",
+      "y": 90
+    },
+    "facing=east,id=12": {
+      "model": "qloverextra:block/quest_board_block_12",
+      "y": 90
+    },
+    "facing=south,id=1": {
+      "model": "qloverextra:block/quest_board_block_1",
+      "y": 180
+    },
+    "facing=south,id=2": {
+      "model": "qloverextra:block/quest_board_block_2",
+      "y": 180
+    },
+    "facing=south,id=3": {
+      "model": "qloverextra:block/quest_board_block_3",
+      "y": 180
+    },
+    "facing=south,id=4": {
+      "model": "qloverextra:block/quest_board_block_4",
+      "y": 180
+    },
+    "facing=south,id=5": {
+      "model": "qloverextra:block/quest_board_block_5",
+      "y": 180
+    },
+    "facing=south,id=6": {
+      "model": "qloverextra:block/quest_board_block_6",
+      "y": 180
+    },
+    "facing=south,id=7": {
+      "model": "qloverextra:block/quest_board_block_7",
+      "y": 180
+    },
+    "facing=south,id=8": {
+      "model": "qloverextra:block/quest_board_block_8",
+      "y": 180
+    },
+    "facing=south,id=9": {
+      "model": "qloverextra:block/quest_board_block_9",
+      "y": 180
+    },
+    "facing=south,id=10": {
+      "model": "qloverextra:block/quest_board_block_10",
+      "y": 180
+    },
+    "facing=south,id=11": {
+      "model": "qloverextra:block/quest_board_block_11",
+      "y": 180
+    },
+    "facing=south,id=12": {
+      "model": "qloverextra:block/quest_board_block_12",
+      "y": 180
+    },
+    "facing=west,id=1": {
+      "model": "qloverextra:block/quest_board_block_1",
+      "y": 270
+    },
+    "facing=west,id=2": {
+      "model": "qloverextra:block/quest_board_block_2",
+      "y": 270
+    },
+    "facing=west,id=3": {
+      "model": "qloverextra:block/quest_board_block_3",
+      "y": 270
+    },
+    "facing=west,id=4": {
+      "model": "qloverextra:block/quest_board_block_4",
+      "y": 270
+    },
+    "facing=west,id=5": {
+      "model": "qloverextra:block/quest_board_block_5",
+      "y": 270
+    },
+    "facing=west,id=6": {
+      "model": "qloverextra:block/quest_board_block_6",
+      "y": 270
+    },
+    "facing=west,id=7": {
+      "model": "qloverextra:block/quest_board_block_7",
+      "y": 270
+    },
+    "facing=west,id=8": {
+      "model": "qloverextra:block/quest_board_block_8",
+      "y": 270
+    },
+    "facing=west,id=9": {
+      "model": "qloverextra:block/quest_board_block_9",
+      "y": 270
+    },
+    "facing=west,id=10": {
+      "model": "qloverextra:block/quest_board_block_10",
+      "y": 270
+    },
+    "facing=west,id=11": {
+      "model": "qloverextra:block/quest_board_block_11",
+      "y": 270
+    },
+    "facing=west,id=12": {
+      "model": "qloverextra:block/quest_board_block_12",
+      "y": 270
+    },
+    "facing=north,id=1": {
+      "model": "qloverextra:block/quest_board_block_1"
+    },
+    "facing=north,id=2": {
+      "model": "qloverextra:block/quest_board_block_2"
+    },
+    "facing=north,id=3": {
+      "model": "qloverextra:block/quest_board_block_3"
+    },
+    "facing=north,id=4": {
+      "model": "qloverextra:block/quest_board_block_4"
+    },
+    "facing=north,id=5": {
+      "model": "qloverextra:block/quest_board_block_5"
+    },
+    "facing=north,id=6": {
+      "model": "qloverextra:block/quest_board_block_6"
+    },
+    "facing=north,id=7": {
+      "model": "qloverextra:block/quest_board_block_7"
+    },
+    "facing=north,id=8": {
+      "model": "qloverextra:block/quest_board_block_8"
+    },
+    "facing=north,id=9": {
+      "model": "qloverextra:block/quest_board_block_9"
+    },
+    "facing=north,id=10": {
+      "model": "qloverextra:block/quest_board_block_10"
+    },
+    "facing=north,id=11": {
+      "model": "qloverextra:block/quest_board_block_11"
+    },
+    "facing=north,id=12": {
+      "model": "qloverextra:block/quest_board_block_12"
+    }
+  }
+}
